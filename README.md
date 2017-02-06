@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MosassyViewTool::Renderer.copyright 'Felicia Wold', 'All rights reserved'
+```
 
 ## Development
 
